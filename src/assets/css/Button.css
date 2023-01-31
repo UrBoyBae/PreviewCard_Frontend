@@ -1,0 +1,17 @@
+.button {
+    /* background-color: hsl(0, 0%, 95%); */
+    padding: 10px 25px;
+    border: 1px solid hsl(0, 0%, 95%);
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
